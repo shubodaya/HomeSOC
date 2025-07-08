@@ -13,6 +13,7 @@ The next step was to create a virtual network within this resource group. To do 
 Note: Throughout the process, in every step the azure subscription, resource group, and the region must be the same.
 
 <img src="https://github.com/shubodaya/HomeSOC/blob/8b56c75b438ac0f5a7c0f6e0199e02298212df50/Images/f2.png"/>
+
 Next, I created a virtual machine on the VN-SOCLab virtual network. I gave it a name “TI-NET-SOUTH-1” just to make it look realistic as we need real hackers to attack the machine (the results were crazy!! 😉).
 
 <img src="https://github.com/shubodaya/HomeSOC/blob/8b56c75b438ac0f5a7c0f6e0199e02298212df50/Images/f3.png"/>
