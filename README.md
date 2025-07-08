@@ -24,6 +24,7 @@ Machine details:
 - Size: Standard_B1s Or B2s (cheapest, free tier eligible)
 - In networks tab, check the “Delete public IP and NIC when VM is deleted”.
 - In monitoring, disable boot diagnostics.
+
 Rest of the fields can be kept default/or any free tier eligible option. Do not forget the username and the password as it will be required to log in to the virtual machine later.
 
 <img src="https://github.com/shubodaya/HomeSOC/blob/8b56c75b438ac0f5a7c0f6e0199e02298212df50/Images/f4.png"/>
