@@ -4,6 +4,7 @@ Learn how I set up a cloud-based Security Operations Center (SOC) lab at home us
 ## Description
 I created a cloud-based SOC using Microsoft Azure and Sentinel. SOC stands for Security Operations Center, generally referred to the team responsible for monitoring, detecting and responding to cybersecurity threats. There are different tools that are used by the SOC like SIEM, EDR and SOAR.
 
+##Steps
 The first step was to create a resource group - a container that holds related resources together. It can include virtual machines, virtual networks, etc. I named my resource group “RG-SOCLab” and chose a server close to my location.
 
 <img src="https://github.com/shubodaya/HomeSOC/blob/8b56c75b438ac0f5a7c0f6e0199e02298212df50/Images/f1.png"/>
