@@ -71,7 +71,7 @@ You won’t get any results as it has just started to collect logs, but wait for
 That’s almost it. Security events are getting logged, all that’s left is to connect the source IP addresses to its geographical location. And then it could be used to create a visual map.
 
 Note: I made this SOC lab by following a YouTube video of Josh Madakor. Check the video and download the geolocation data spreadsheet from the description.
-Link to video: https[:]//youtu[.]be/g5JL2RIbThM?si=oJpcQnUF8DQ30BAD
+Link to video: https://www.youtube.com/watch?v=g5JL2RIbThM
 
 I created a watchlist in Sentinel and uploaded the csv file. I put the name and alias of the watchlist as “geoip”. Wait for a few minutes for the spreadsheet data to get uploaded. There should be around 55k watchlist items.
 
